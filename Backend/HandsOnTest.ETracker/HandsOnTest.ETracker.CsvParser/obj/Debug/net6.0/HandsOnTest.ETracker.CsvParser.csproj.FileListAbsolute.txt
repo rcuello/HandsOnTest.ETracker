@@ -1,0 +1,11 @@
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.CsvParser\obj\Debug\net6.0\HandsOnTest.ETracker.CsvParser.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.CsvParser\obj\Debug\net6.0\HandsOnTest.ETracker.CsvParser.AssemblyInfoInputs.cache
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.CsvParser\obj\Debug\net6.0\HandsOnTest.ETracker.CsvParser.AssemblyInfo.cs
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.CsvParser\obj\Debug\net6.0\HandsOnTest.ETracker.CsvParser.csproj.CoreCompileInputs.cache
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.CsvParser\bin\Debug\net6.0\HandsOnTest.ETracker.CsvParser.deps.json
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.CsvParser\bin\Debug\net6.0\HandsOnTest.ETracker.CsvParser.dll
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.CsvParser\bin\Debug\net6.0\ref\HandsOnTest.ETracker.CsvParser.dll
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.CsvParser\bin\Debug\net6.0\HandsOnTest.ETracker.CsvParser.pdb
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.CsvParser\obj\Debug\net6.0\HandsOnTest.ETracker.CsvParser.dll
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.CsvParser\obj\Debug\net6.0\ref\HandsOnTest.ETracker.CsvParser.dll
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.CsvParser\obj\Debug\net6.0\HandsOnTest.ETracker.CsvParser.pdb

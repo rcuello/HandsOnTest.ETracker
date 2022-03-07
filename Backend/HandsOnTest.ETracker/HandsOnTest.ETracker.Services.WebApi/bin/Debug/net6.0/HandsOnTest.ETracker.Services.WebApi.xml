@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HandsOnTest.ETracker.Services.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:HandsOnTest.ETracker.Services.WebApi.Controllers.DealerTrackController">
+            <summary>
+            Parse a csv file and returns list of sales
+            </summary>
+        </member>
+        <member name="M:HandsOnTest.ETracker.Services.WebApi.Controllers.DealerTrackController.Parse(HandsOnTest.ETracker.Domain.ViewModel.DealerTrackViewModel)">
+             <summary>
+             Parse a csv file and returns list of sales
+             </summary>
+             <param name="file">A csv file where each row represents a sale of a vehicle</param>
+             <remarks>
+             Sample request:
+            
+                 Post /api/DealerTrack/Parse
+            
+             </remarks>
+             <returns>list of sales to retrieve</returns>
+             <response code="200">If csv file is valid return list of sales
+             </response>
+        </member>
+        <member name="M:HandsOnTest.ETracker.Services.WebApi.Extensions.ExceptionExtensions.ToFullMessage(System.Exception)">
+            <summary>
+            Gets a delegate method that extracts information from the specified exception.
+            </summary>
+            <param name="exception"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

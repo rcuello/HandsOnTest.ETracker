@@ -1,0 +1,106 @@
+[
+    {
+      "dealNumber": "5469",
+      "customerName": "Milli Fulton",
+      "dealershipName": "Sun of Saskatoon",
+      "vehicle": "2017 Ferrari 488 Spider",
+      "price": "429,987",
+      "date": "6/19/2018"
+    },
+    {
+      "dealNumber": "5132",
+      "customerName": "Rahima Skinner",
+      "dealershipName": "Seven Star Dealership",
+      "vehicle": "2009 Lamborghini Gallardo Carbon Fiber LP-560",
+      "price": "169,900",
+      "date": "1/14/2018"
+    },
+    {
+      "dealNumber": "5795",
+      "customerName": "Aroush Knapp",
+      "dealershipName": "Maxwell & Junior",
+      "vehicle": "2016 Porsche 911 2dr Cpe GT3 RS",
+      "price": "289,900",
+      "date": "6/7/2018"
+    },
+    {
+      "dealNumber": "5212",
+      "customerName": "Richard Spencer",
+      "dealershipName": "Milton Jeep Limited",
+      "vehicle": "2018 Jeep Grand Cherokee Trackhawk",
+      "price": "134,599",
+      "date": "7/13/2018"
+    },
+    {
+      "dealNumber": "5268",
+      "customerName": "Naseem Snow",
+      "dealershipName": "Scott Toronto Dealership, Inc",
+      "vehicle": "2018 BMW M760Li Xdrive Sedan",
+      "price": "177,608",
+      "date": "1/21/2018"
+    },
+    {
+      "dealNumber": "5765",
+      "customerName": "Storm William",
+      "dealershipName": "Mythicgarcia Dealership LTDA",
+      "vehicle": "2018 Mercedes-Benz S-Class Cabriolet",
+      "price": "189,693",
+      "date": "3/22/2018"
+    },
+    {
+      "dealNumber": "5465",
+      "customerName": "S�gol�ne L�mery",
+      "dealershipName": "Richaremus Jafur Dealer",
+      "vehicle": "2017 Chevrolet Corvette Z06",
+      "price": "132,925",
+      "date": "3/4/2018"
+    },
+    {
+      "dealNumber": "5545",
+      "customerName": "�lie Boutroux",
+      "dealershipName": "Horseallen Cars",
+      "vehicle": "2018 Lexus LS 500h",
+      "price": "164,810",
+      "date": "2/5/2018"
+    },
+    {
+      "dealNumber": "5890",
+      "customerName": "Ronnie Griffiths",
+      "dealershipName": "Cheruharrison Auto",
+      "vehicle": "2018 Nissan GT-R Premium",
+      "price": "147,018",
+      "date": "4/8/2018"
+    },
+    {
+      "dealNumber": "5812",
+      "customerName": "Anwar Hoffman",
+      "dealershipName": "Legowart Kingorty, Ltd.",
+      "vehicle": "2018 Jeep Grand Cherokee Trackhawk",
+      "price": "130,936",
+      "date": "5/11/2018"
+    },
+    {
+      "dealNumber": "5298",
+      "customerName": "Jakob Osborn",
+      "dealershipName": "Coreen Dealership",
+      "vehicle": "2017 Dodge Viper New Car ACR",
+      "price": "229,998",
+      "date": "6/11/2018"
+    },
+    {
+      "dealNumber": "5359",
+      "customerName": "Maxine Daniels",
+      "dealershipName": "Saskatoon Ferrari",
+      "vehicle": "2017 Ferrari 488 Spider",
+      "price": "419,955",
+      "date": "7/15/2018"
+    },
+    {
+      "dealNumber": "5712",
+      "customerName": "Donald Waters",
+      "dealershipName": "Milton Jeep Limited",
+      "vehicle": "2018 Jeep Grand Cherokee Trackhawk",
+      "price": "135,500",
+      "date": "6/21/2018"
+    }
+  ]

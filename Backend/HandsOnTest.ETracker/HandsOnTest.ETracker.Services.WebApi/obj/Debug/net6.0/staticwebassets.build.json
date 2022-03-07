@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XqCkuGDyqDc/IyOeRsQgT1ckH/RGPrEo0gtGQ/ZCn5I=",
+  "Source": "HandsOnTest.ETracker.Services.WebApi",
+  "BasePath": "_content/HandsOnTest.ETracker.Services.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

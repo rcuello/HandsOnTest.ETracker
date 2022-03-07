@@ -1,0 +1,15 @@
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.Domain\bin\Debug\net6.0\HandsOnTest.ETracker.Domain.deps.json
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.Domain\bin\Debug\net6.0\HandsOnTest.ETracker.Domain.dll
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.Domain\bin\Debug\net6.0\ref\HandsOnTest.ETracker.Domain.dll
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.Domain\bin\Debug\net6.0\HandsOnTest.ETracker.Domain.pdb
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.Domain\bin\Debug\net6.0\HandsOnTest.ETracker.CsvParser.dll
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.Domain\bin\Debug\net6.0\HandsOnTest.ETracker.CsvParser.pdb
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.Domain\obj\Debug\net6.0\HandsOnTest.ETracker.Domain.csproj.AssemblyReference.cache
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.Domain\obj\Debug\net6.0\HandsOnTest.ETracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.Domain\obj\Debug\net6.0\HandsOnTest.ETracker.Domain.AssemblyInfoInputs.cache
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.Domain\obj\Debug\net6.0\HandsOnTest.ETracker.Domain.AssemblyInfo.cs
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.Domain\obj\Debug\net6.0\HandsOnTest.ETracker.Domain.csproj.CoreCompileInputs.cache
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.Domain\obj\Debug\net6.0\HandsOnTest.ETracker.Domain.csproj.CopyComplete
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.Domain\obj\Debug\net6.0\HandsOnTest.ETracker.Domain.dll
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.Domain\obj\Debug\net6.0\ref\HandsOnTest.ETracker.Domain.dll
+F:\Software\Developer\Proyectos\Intertect\Backend\HandsOnTest.ETracker\HandsOnTest.ETracker.Domain\obj\Debug\net6.0\HandsOnTest.ETracker.Domain.pdb
