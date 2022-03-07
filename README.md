@@ -28,11 +28,12 @@ This project was generated with a lot of love.
 2. Install depedencies
 		
         npm install
+3. Change file HandsOnTest.ETracker/Frontend/e-carshop/src/configuration.json change the variable setting "SERVER_URL" with Backend url
 
-3. Run
+4. Run
     
         npm start
-
+	
 
 # To do
 ## Backend
